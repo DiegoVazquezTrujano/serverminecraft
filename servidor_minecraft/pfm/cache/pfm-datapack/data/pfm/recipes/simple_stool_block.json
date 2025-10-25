@@ -1,0 +1,49 @@
+{
+  "type": "pfm:dynamic_furniture",
+  "group": "stools",
+  "supportedVariants": [
+    "minecraft:oak",
+    "minecraft:bamboo",
+    "minecraft:spruce",
+    "minecraft:birch",
+    "minecraft:jungle",
+    "minecraft:acacia",
+    "minecraft:cherry",
+    "minecraft:dark_oak",
+    "minecraft:mangrove",
+    "minecraft:crimson",
+    "minecraft:warped",
+    "twilightforest:twilight_oak",
+    "twilightforest:canopy",
+    "twilightforest:mangrove",
+    "twilightforest:dark",
+    "twilightforest:time",
+    "twilightforest:transformation",
+    "twilightforest:mining",
+    "twilightforest:sorting",
+    "minecraft:stone",
+    "minecraft:calcite",
+    "minecraft:light_wood",
+    "minecraft:dark_wood",
+    "minecraft:pink_wood",
+    "minecraft:quartz",
+    "minecraft:netherite",
+    "minecraft:granite",
+    "minecraft:diorite",
+    "minecraft:andesite",
+    "minecraft:basalt",
+    "minecraft:blackstone",
+    "minecraft:deepslate"
+  ],
+  "ingredients": {
+    "vanillaIngredients": [],
+    "variantChildren": {
+      "secondary": 2,
+      "base": 3
+    }
+  },
+  "result": {
+    "outputClass": "SimpleStoolBlock",
+    "count": 4
+  }
+}
